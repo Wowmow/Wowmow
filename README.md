@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Connor
+- 👀 I’m interested in app design
+- 🌱 I’m currently learning Swift
+- 📫 You can reach me at katatonic05@gmail.com
