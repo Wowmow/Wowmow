@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Connor
 - 👀 I’m interested in entrepreneurship and programming
-- 🌱 I’m currently learning Python and SQL
+- 📚 I know SQL
+- 🌱 I’m currently learning Python
 - 📫 You can reach me at connorkatz@connorkatz.net
